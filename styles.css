@@ -3,16 +3,17 @@
 } 
 .item{
     list-style: none;
-    border: 1px solid blue;
+    border: 3px solid red;
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+    text-align: center;
 
 }
 .item a{
     text-decoration: none;
 }
 .item:hover{
-    background-color: lightcyan;
+    background-color: blueviolet;
 
 }
